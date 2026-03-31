@@ -1,0 +1,23 @@
+Digital Literacy Awareness Infographic shows the easy guide to the modern world tech in three sections, which is specially tailored for students. 
+The three section is:-
+
+a)Defining digital literacy:
+Digital literacy is more than just knowing how to use a computer. The graphic defines it as the complete skillset required to find and 
+evaluate information online and create and communicate ideas effectively using digital tools.
+
+b)Essential Tools for students that help them to stay organized and productive:
+Google Calendar: For time management.
+Cloud Storage: To save and access files from anywhere.
+Note-taking Apps: To write the ideas and study more efficiently.
+Zoom: To stay connected with classmates and teachers.
+
+c)Safe internet Practice that helps them to protect their digital data like:
+Password Security: Use strong passwords that mix letters, numbers, and symbols.
+Always "think before you click" by verifying links and senders.
+Privacy: Protect personal information and share only what is necessary.
+Control your passwords and capture links and senders.
+
+The Takeaway: The infographic emphasizes that being "tech-savy" isn't just about speed—it's about being resourceful, organized, and secure.
+
+Infographic:
+![infographixc]()
