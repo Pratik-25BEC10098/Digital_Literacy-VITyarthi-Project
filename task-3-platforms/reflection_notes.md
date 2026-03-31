@@ -5,4 +5,5 @@ In Part A, I make account on Hacker Rank(which is a popular technology hiring pl
 
 
 Part B: Google Workspace Collaboration:  
-In Part B, I created a Google Form with 5 questions which contain multiple choice questions and short answers named 'Digital Literacy Awareness Quiz' for my batchmates and using Google Sheet in which we can see the responces of other. In this i learned about integration of google workspace and how it works in synchronization.
+In Part B, I created a Google Form with 5 questions which contain multiple choice questions and short answers named 'Digital Literacy Awareness Quiz' for my batchmates and using Google Sheet in which we can see the responces of other. In this i learned about integration of google workspace and how it works in synchronization.  
+Link of the Form- https://forms.gle/FJrmuHV4x3FmpEmj8 
