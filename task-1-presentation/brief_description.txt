@@ -20,4 +20,4 @@ Control your passwords and capture links and senders.
 The Takeaway: The infographic emphasizes that being "tech-savy" isn't just about speed—it's about being resourceful, organized, and secure.
 
 Infographic:
-![infographixc]()
+https://github.com/Pratik-25BEC10098/Digital_Literacy-VITyarthi-Project/blob/1f94406a0019aef759f048fbd55f9b8cf188c67f/task-1-presentation/Infographic.jpg
