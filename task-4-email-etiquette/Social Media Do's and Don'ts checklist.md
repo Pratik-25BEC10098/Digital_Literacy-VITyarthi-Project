@@ -1,3 +1,6 @@
+Task 5 - Part B  
+Create a Social Media Do's and Don'ts checklist:  
+
 Do's for responsible social media use:- 
 
  Enable two-factor authentication on all your social media accounts.  
