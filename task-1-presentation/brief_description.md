@@ -1,7 +1,7 @@
 Digital Literacy Awareness Infographic shows the easy guide to the modern world tech in three sections, which is specially tailored for students. 
 The three section is:-
 
-a)Defining digital literacy:
+a)Defining digital literacy:  
 Digital literacy is more than just knowing how to use a computer. The graphic defines it as the complete skillset required to find and 
 evaluate information online and create and communicate ideas effectively using digital tools.
 
