@@ -2,9 +2,19 @@
 
 Project Overview:-  
 Module Summaries:-  
-Links:-   
-LinkedIn: www.linkedin.com/in/pratik-b504833bb 
-Git Hub:
-Task 3 google form link: https://forms.gle/FJrmuHV4x3FmpEmj8  
+Module 1: This Module shows the Digital Literacy Infographic which create awareness about the modern world tech.  
+Module 2: Here I created portfolio using platorms like GitHub, Stack Overflow and LinkedIn.  
+Module 3: 
+Module 4:
+Module 5:
+
+
+Links:-     
+LinkedIn: www.linkedin.com/in/pratik-b504833bb   
+Git Hub: https://github.com/Pratik-25BEC10098 
+
+Task 3 google form link: https://forms.gle/FJrmuHV4x3FmpEmj8 
+
+
 Name     - Pratik  
 Reg. No. - 25BEC10098
