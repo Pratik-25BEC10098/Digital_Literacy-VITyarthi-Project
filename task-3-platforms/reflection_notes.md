@@ -1,8 +1,8 @@
 Task 3 - Explore Coding & Collaboration Platforms 
 
-Part A: Coding Practice:
+Part A: Coding Practice:  
 In Part A, We make account on Hacker Rank and solve the problem "Solve me first" in which i solved sum of two numbers using python3.
 
 
-Part B: Google Workspace Collaboration:
+Part B: Google Workspace Collaboration:  
 In Part B, Created a Google Form with 5 questions which contain multiple choice questions and short answers named 'Digital Literacy Awareness Quiz' for my batchmates and using Google Sheet we can data of responces.
