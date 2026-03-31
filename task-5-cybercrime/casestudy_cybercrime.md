@@ -1,3 +1,6 @@
+Task 5 - Part A  
+Write a 200–250 word case study describing: what the crime is, how it typically happens (step-by-step), who is usually targeted, and what the consequences are.  
+
 This case study examines a major cyber fraud that has been reported from Mumbai, where an 85-year-old man from Mumbai's Thakurdwar area was cheated of nearly Rs 9 crore by fraudsters posing as police officers. The accused placed him under a so-called “digital arrest,” falsely accusing him of money laundering and terror financing, and coerced him into transferring the funds to multiple bank accounts.
 The elderly victim, in his complaint to the police, stated that he lives in Thakurdwar with his family. His elder daughter lives with him, while his younger daughter lives in the United States.
 
