@@ -1,4 +1,4 @@
-                                      Digital_Literacy-VITyarthi-Project
+                                      Digital Literacy VITyarthi Project
 
 Project Overview:-  
 This project helps the students to navigate the digital world from creating professional online profiles, to communicating safely, Cybercrime awareness, Social media preventation, Email writing, coding practice and responsibly online.
