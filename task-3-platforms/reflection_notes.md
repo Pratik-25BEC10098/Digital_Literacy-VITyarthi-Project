@@ -1,7 +1,7 @@
 Task 3 - Explore Coding & Collaboration Platforms 
 
 Part A: Coding Practice:  
-In Part A, We make account on Hacker Rank and solve the problem "Solve me first" in which i solved sum of two numbers using python3.
+In Part A, We make account on Hacker Rank(which is a popular technology hiring platform and coding community that allows developers to practice programming and companies to evaluate technical skills. It provides online coding assessments, challenges, and contests, covering algorithms, data structures, SQL, and various languages, used extensively for remote interviews and technical hiring.) and solve the problem "Solve me first" in which i solved sum of two numbers using python3.
 
 
 Part B: Google Workspace Collaboration:  
